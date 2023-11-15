@@ -39,7 +39,7 @@ function github() {
   location.href = '/lessons';
 }
 function ng() {
-  agU = Ultraviolet.codec.xor.encode('https://nowgg.nl');
+  agU = Ultraviolet.codec.xor.encode('https://projectnowst.surge.sh');
   sessionStorage.setItem('agUrl', agU);
   location.href = '/lessons';
 }
